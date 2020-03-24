@@ -1,2 +1,3 @@
 my gitclass
 2nd entry
+3rd entry
